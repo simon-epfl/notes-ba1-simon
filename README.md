@@ -39,9 +39,25 @@ Mes notes/fiches de cours de BA1 à l'EPFL.
 
 * [Formulaire pour l'examen final](./mecanique/Mécanique%20Cheat%20Sheet.pdf)
 
+## Algèbre
+
+### Quizlet Propriétés
+
+* [Quizlet pour l'examen final](./algebre/Quizlet%20Algèbre.pdf)
+
+## Analyse
+
+### Quizlet Propriétés et définitions
+
+* [Quizlet pour l'examen final](./analyse/Quizlet%20Analyse.pdf)
+
+### Quizlet Vrai ou Faux
+
+* [Quizlet 2 pour l'examen final](./analyse/Quizlet%20Analyse%20VF.pdf)
+
 ## Chappelier
 
-Quelques exos de + quand je suivais le MOOC de Chappelier sur la prog en C++
+Quelques exos qui datent des semaines où je suivais le MOOC de Chappelier sur la prog en C++
 
 * [Max](./cpp-chappelier/max.cpp)
 * [Renards](./cpp-chappelier/renards.cpp)
