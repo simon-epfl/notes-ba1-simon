@@ -8,19 +8,19 @@ Les fichiers non mentionnés ci-dessous dans les dossiers `raw` sont vraiment su
 
 J'ai loggé CHAQUE heure de travail effectuée en BA1, avec la matière associée.
 
-Nombre d'heures total passées à travailler en BA1 : **803h perso** + **252h d'amphi** => **1,055h** de BA1.
+Nombre d'heures total passées à travailler en BA1 : **803h perso** + **252h d'amphi** => **1,055h** de BA1.  
 (dont révisions, 265h, soit environ **30% du temps personnel** et **25% du temps total**).
 
-Les heures suivantes sont arrondies à +- 5h.
+Les heures suivantes sont arrondies à +- 5h.  
 Format: **matière** : total (septembre, octobre, novembre, décembre, *révisions*)
 
-**Programmation**: 130h *+ 28h de cours* (0h, 25h, 35h, 70h, *0h*)
-**Analyse** : 205h *+ 56h de cours* (30h, 45h, 40h, 20h, *70h*). Soit **25%** du temps en révisions.
-**Algèbre** : 130h *+ 56h de cours* (15h, 20h, 15h, 15h, *65h*). Soit **30%** du temps en révisions.
-**AICC**: 140h *+ 56h de cours* (5h, 20h, 35h, 20h, *60h*). Soit **30%** du temps en révisions.
-**Mécanique**: 200h *+ 56h de cours* (5h, 50h, 45h, 30h, *70h*). Soit **25%** du temps en révisions.
+**Programmation**: 130h *+ 28h de cours* (0h, 25h, 35h, 70h, *0h*)  
+**Analyse** : 205h *+ 56h de cours* (30h, 45h, 40h, 20h, *70h*). Soit **25%** du temps en révisions.  
+**Algèbre** : 130h *+ 56h de cours* (15h, 20h, 15h, 15h, *65h*). Soit **30%** du temps en révisions.  
+**AICC**: 140h *+ 56h de cours* (5h, 20h, 35h, 20h, *60h*). Soit **30%** du temps en révisions.  
+**Mécanique**: 200h *+ 56h de cours* (5h, 50h, 45h, 30h, *70h*). Soit **25%** du temps en révisions.  
 
-On voit bien à quel point le temps accordé à la prog augmente au fil du semestre (jusqu'au fameux Mini-Projet 2...).
+On voit bien à quel point le temps accordé à la prog augmente au fil du semestre (jusqu'au fameux Mini-Projet 2...).  
 Et à quel point analyse et méca nécessitaient plus de taf pour moi :)
 
 ## AICC
