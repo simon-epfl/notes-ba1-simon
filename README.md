@@ -23,6 +23,8 @@ Format: **matière** : total (septembre, octobre, novembre, décembre, *révisio
 On voit bien à quel point le temps accordé à la prog augmente au fil du semestre (jusqu'au fameux Mini-Projet 2...).  
 Et à quel point analyse et méca nécessitaient plus de taf pour moi :)
 
+Le tracking est fait grâce à l'application auto hébergée open source [TimeTagger](https://github.com/almarklein/timetagger).
+
 ## AICC
 
 ### Evolution de la prise de notes
