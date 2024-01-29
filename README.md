@@ -1,8 +1,33 @@
 # Notes BA1 Simon
 
-Mes notes/fiches de cours de BA1 à l'EPFL.
+Mes notes/fiches de cours de BA1 à l'EPFL. Ce dossier me sert d'archives pour les données du semestre.
+
+Les fichiers non mentionnés ci-dessous dans les dossiers `raw` sont vraiment sur ce repo pour que je puisse y jeter personnellement un coup d'oeil si besoin mais sont probablement inexactes/faux (car exos d'entraînement faits durant le semestre souvent avant les séances d'exos).
+
+## Statistiques
+
+J'ai loggé CHAQUE heure de travail effectuée en BA1, avec la matière associée.
+
+Nombre d'heures total passées à travailler en BA1 : **803h perso** + **252h d'amphi** => **1,055h** de BA1.
+(dont révisions, 265h, soit environ **30% du temps personnel** et **25% du temps total**).
+
+Les heures suivantes sont arrondies à +- 5h.
+Format: **matière** : total (septembre, octobre, novembre, décembre, *révisions*)
+
+**Programmation**: 130h *+ 28h de cours* (0h, 25h, 35h, 70h, *0h*)
+**Analyse** : 205h *+ 56h de cours* (30h, 45h, 40h, 20h, *70h*). Soit **25%** du temps en révisions.
+**Algèbre** : 130h *+ 56h de cours* (15h, 20h, 15h, 15h, *65h*). Soit **30%** du temps en révisions.
+**AICC**: 140h *+ 56h de cours* (5h, 20h, 35h, 20h, *60h*). Soit **30%** du temps en révisions.
+**Mécanique**: 200h *+ 56h de cours* (5h, 50h, 45h, 30h, *70h*). Soit **25%** du temps en révisions.
+
+On voit bien à quel point le temps accordé à la prog augmente au fil du semestre (jusqu'au fameux Mini-Projet 2...).
+Et à quel point analyse et méca nécessitaient plus de taf pour moi :)
 
 ## AICC
+
+### Evolution de la prise de notes
+
+Au début j'écrivais tous les cours à la main (cours 1 et 2 dispo dans le dossier `raw`), puis j'annotais simplement les slides (jusqu'à semaine 3-4), puis je suivais uniquement le cours en lisant le livre en parallèle.
 
 ### Mémos
 
@@ -33,7 +58,11 @@ Mes notes/fiches de cours de BA1 à l'EPFL.
 
 * [Formulaire pour l'examen final](./programmation/Formulaire%20Programmation.pdf)
 
-## Mécanique 
+## Mécanique
+
+### Evolution de la prise de notes
+
+Au début j'écrivais tous les cours à la main (cours 1 et 2 dispo dans le dossier `raw`), puis j'annotais légèrement les slides sur mon ordi (non dispo sur le repo car très peu d'annotations).
 
 ### Formulaire pour l'examen final
 
@@ -41,11 +70,20 @@ Mes notes/fiches de cours de BA1 à l'EPFL.
 
 ## Algèbre
 
+### Evolution de la prise de notes
+
+Au début j'écrivais tous les cours à la main (cours 1 et 2 dispo dans le dossier `raw`), puis j'annotais légèrement les slides sur mon ordi (non dispo sur le repo car très peu d'annotations).
+
 ### Quizlet Propriétés
 
 * [Quizlet pour l'examen final](./algebre/Quizlet%20Algèbre.pdf)
 
 ## Analyse
+
+### Evolution de la prise de notes
+
+Je suivais ce cours en classe inversée.
+Au début j'écrivais tous les cours à la main pendant les vidéos (cours 1, 2, 3 dispo dans le dossier `raw`), puis je suis passé à Overleaf/LaTeX (le fichier PDF est dans le dossier `raw`).
 
 ### Quizlet Propriétés et définitions
 
